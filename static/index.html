@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Prxy-AI Command</title>
+<link rel="stylesheet" href="/static/style.css?v=14">
+</head>
+<body>
+<div class="shell">
+  <aside class="side" id="side">
+    <a class="brand" href="#/"><canvas id="brandmark" width="16" height="16" aria-hidden="true"></canvas><span><b>Prxy-AI Command</b><small>Your homelab crew</small></span></a>
+    <nav class="nav" id="nav" aria-label="Main"></nav>
+    <div class="side-foot"><span class="dot" id="wsdot" title="Live connection"></span><span class="badge" id="badge">Checking…</span></div>
+  </aside>
+  <div class="main">
+    <header class="top">
+      <button type="button" id="menu" class="ghost" aria-label="Open menu" aria-controls="side" aria-expanded="false">☰</button>
+      <h1 id="title">Home</h1><span class="sub" id="subtitle"></span>
+      <div class="actions" id="actions"></div>
+    </header>
+    <main id="view"></main>
+  </div>
+</div>
+<script type="module" src="/static/js/main.js?v=14"></script>
+</body>
+</html>

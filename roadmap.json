@@ -1,0 +1,105 @@
+{
+ "updated": "2026-10-23",
+ "sessions": [
+  {
+   "id": "S0",
+   "title": "Design sign-off + infra",
+   "status": "done"
+  },
+  {
+   "id": "S1",
+   "title": "Runtime, findings store, LLM gateway",
+   "status": "done"
+  },
+  {
+   "id": "S2",
+   "title": "Dashboard shell + Office MVP",
+   "status": "done"
+  },
+  {
+   "id": "S3",
+   "title": "Alert Triage",
+   "status": "done"
+  },
+  {
+   "id": "S4",
+   "title": "Sentinel",
+   "status": "done"
+  },
+  {
+   "id": "S5",
+   "title": "Backup Warden + Capacity Planner",
+   "status": "done"
+  },
+  {
+   "id": "S6",
+   "title": "Patch Scout + Config Drift",
+   "status": "done"
+  },
+  {
+   "id": "S7",
+   "title": "Council core: Coordinator + Memory",
+   "status": "done"
+  },
+  {
+   "id": "S8",
+   "title": "Approvals + decisions (manual steps; execution not enabled)",
+   "status": "done"
+  },
+  {
+   "id": "S9",
+   "title": "Second Opinion",
+   "status": "done"
+  },
+  {
+   "id": "S10",
+   "title": "Remaining security agents",
+   "status": "done"
+  },
+  {
+   "id": "S11",
+   "title": "Day Briefing + Briefing Editor",
+   "status": "done"
+  },
+  {
+   "id": "S12",
+   "title": "Research Librarian",
+   "status": "done"
+  },
+  {
+   "id": "S13",
+   "title": "Backlog Keeper",
+   "status": "done"
+  },
+  {
+   "id": "S14",
+   "title": "Media Curator",
+   "status": "done"
+  },
+  {
+   "id": "S15",
+   "title": "Job and Career Scout",
+   "status": "done"
+  },
+  {
+   "id": "S16",
+   "title": "Office polish",
+   "status": "done"
+  },
+  {
+   "id": "S17",
+   "title": "Self-watching council: correlation, debate, orchestration, maintenance windows, watchdog, push alerts, tuning, trace",
+   "status": "done"
+  },
+  {
+   "id": "S18",
+   "title": "The Team: projects the agents plan and carry out together",
+   "status": "done"
+  },
+  {
+   "id": "S19",
+   "title": "Outside reviewer (Claude via API or subscription) and a narrow approved executor",
+   "status": "done"
+  }
+ ]
+}

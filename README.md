@@ -8,7 +8,15 @@ and reports back.
 > Python 3 · aiohttp · asyncio · SQLite · Prometheus / Loki / Proxmox APIs · local LLMs (Ollama) ·
 > Claude, OpenAI and Gemini as outside advisors · vanilla JS dashboard · **594 automated checks**
 
-<!-- Screenshot: replace with docs/img/office.png -->
+![The Office: every agent at its desk, live](docs/img/office.png)
+
+| Missions: plan, reviews, dry run, "your part" | Autopilot: standing permissions |
+|---|---|
+| ![Missions](docs/img/missions.png) | ![Autopilot](docs/img/autopilot.png) |
+| **Crew: who reports to whom** | **Break room: agents talk about real events** |
+| ![Crew](docs/img/crew.png) | ![Break room](docs/img/chat.png) |
+
+<sub>Screenshots come from a read-only copy of my live instance with the agents paused. Addresses are replaced with example ranges.</sub>
 
 ## Why I built it
 Monitoring tools tell you something is wrong. I wanted something that also **explains why, proposes the fix,
